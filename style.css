@@ -10,6 +10,7 @@ header {
     color: #312a93;
     padding: 1em;
     text-align: center;
+    font-family: 'Cinzel Decorative', serif;
 }
 
 nav {
@@ -63,4 +64,21 @@ p{
 .line{
     color: rgb(255, 0, 0);
 
+}
+.cfont{
+    font-family: 'Cinzel Decorative', serif;
+    font-weight: bold;
+}
+p{
+    font-family: 'Playfair Display SC', serif;
+
+    
+}
+ul{
+    font-family: 'Playfair Display SC', serif;
+
+}
+.qf{
+    font-family: 'Cinzel Decorative', serif;
+    font-weight: bold;
 }
